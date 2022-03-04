@@ -1,2 +1,4 @@
-# ContactMana
-homeWork
+# ContactManagement CRM system
+
+
+crm made using python
